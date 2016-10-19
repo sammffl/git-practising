@@ -9,3 +9,8 @@ git config user.name "SamMFFL"
 
 git config user.email "sammffl@icloud.com"
 
+
+#### git 配置文件
+
+git config -l
+
